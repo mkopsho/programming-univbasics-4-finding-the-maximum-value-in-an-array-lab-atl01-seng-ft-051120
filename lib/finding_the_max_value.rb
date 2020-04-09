@@ -1,9 +1,10 @@
-# This is specifically against instructions
+# This is what I'd do normally but is specifically against instructions!
+#
 # def find_max_value(array)
 #   array.sort!
 #   array[-1]
 # end
-
+#
 def find_max_value(array)
   count = 0
   maximum = -1
